@@ -1,0 +1,313 @@
+body {font-family: arial; font-size: 9pt; background-color: #EAEAEA;}
+
+.Title {font-weight: bold; background-color: #e06363; border-style: solid; border-width: 1px; border-color: black;}
+
+.Title2 {font-weight: bold; background-color: #DE8585; border-style: solid; border-width: 1px; border-color: black;}
+
+.Title3 {width: 1000px; font-weight: bold; background-color: #DE8565; border-style: solid; border-width: 1px; border-color: black;}
+
+.Table1 {background-color: #CCCCCC; border-style: solid; border-width: 1px; border-color: black;}
+
+.Table2 {background-color: #BDBDBD; border-style: solid; border-width: 1px; border-color: black;}
+
+.Alchemy {width: 35px;}
+
+.Staff {width: 35px;}
+
+.Potion {width: 35px;}
+
+.AlchemySiege {width: 35px;}
+
+.Herbalism {width: 35px;}
+
+.SithraBlade {width: 35px;}
+
+.SithraFibula {width: 35px;}
+
+.Armor {width: 35px;}
+
+.BloodShade {width: 35px;}
+
+.Bow {width: 35px;}
+
+.Cook {width: 35px;}
+
+.Enchant {width: 35px;}
+
+.Jewel {width: 35px;}
+
+.SiegeBuild {width: 35px;}
+
+.Tailor {width: 35px;}
+
+.Transmute {width: 35px;}
+
+.Shield {width: 35px;}
+
+.Raw {width: 45px;}
+
+.Weapon {width: 35px;}
+
+.Axe {width: 35px;}
+
+.Club {width: 35px;}
+
+.Greataxe {width: 35px;}
+
+.Greatclub {width: 35px;}
+
+.Greatsword {width: 35px;}
+
+.Knife {width: 35px;}
+
+.Polearm {width: 35px;}
+
+.Sword {width: 35px;}
+
+.Siege {width: 35px;}
+
+.Sithra {width: 35px;}
+
+.NoInput {width: 50px; background-color: transparent; border-width: 0px;}
+
+.Main {width : 1000px; height : 450px; overflow : scroll; overflow-x: hidden;}
+
+.Pane {padding: 5px; border: 1px solid; border-top: 0px;}
+
+.red {color: red;}
+
+.italic {font-style:italic;}
+
+.colSkill {width: 40px}
+.colItem {width: 161px}
+.colQuantity {width: 55px}
+.colPrice {width: 55px}
+.colSuccess {width: 56px}
+.colGold {width: 40px}
+.colIron {width: 30px}
+.colWood {width: 40px}
+.colLeather {width: 50px}
+.colRare {width: 73px}
+.colMiscA {width: 150px}
+.colMiscB {width: 100px}
+
+.colTotalInput {width: 55px}
+
+.colArmorTotal0 {width: 70px}
+.colArmorTotal1 {width: 60px}
+.colArmorTotal2 {width: 65px}
+.colArmorTotal3 {width: 75px}
+.colArmorTotal4 {width: 100px}
+.colArmorTotal5 {width: 105px}
+.colArmorTotalSpace {width: 122px}
+.colArmorSpace {width: 0px}
+
+.colStaffTotal0 {width: 70px}
+.colStaffTotal1 {width: 40px}
+.colStaffTotal2 {width: 84px}
+.colStaffTotal3 {width: 50px}
+.colStaffTotal4 {width: 45px}
+.colStaffTotal5 {width: 95px}
+.colStaffTotal6 {width: 145px}
+.colStaffTotalSpace {width: 5px}
+.colStaffSpace {width: 0px}
+
+.colPotionTotal0 {width: 75px}
+.colPotionTotal1 {width: 45px}
+.colPotionTotal2 {width: 45px}
+.colPotionTotal3 {width: 45px}
+.colPotionTotal4 {width: 70px}
+.colPotionTotal5 {width: 80px}
+.colPotionTotal6 {width: 90px}
+.colPotionTotalSpace {width: 84px}
+.colPotionSpace {width: 0px}
+
+.colAlchemySiegeTotal0 {width: 125px}
+.colAlchemySiegeTotal1 {width: 40px}
+.colAlchemySiegeTotal2 {width: 45px}
+.colAlchemySiegeTotal3 {width: 75px}
+.colAlchemySiegeTotalSpace {width: 438px}
+.colAlchemySiegeSpace {width: 0px}
+
+.colHerbalismTotal0 {width: 100px}
+.colHerbalismTotal1 {width: 40px}
+.colHerbalismTotal2 {width: 80px}
+.colHerbalismTotal3 {width: 85px}
+.colHerbalismTotalSpace {width: 418px}
+.colHerbalismSpace {width: 0px}
+
+.colSithraBladeTotal0 {width: 107px}
+.colSithraBladeTotal1 {width: 45px}
+.colSithraBladeTotal2 {width: 60px}
+.colSithraBladeTotal3 {width: 90px}
+.colSithraBladeTotal4 {width: 110px}
+.colSithraBladeTotal5 {width: 145px}
+.colSithraBladeTotalSpace {width: 40px}
+.colSithraBladeSpace {width: 0px}
+
+.colSithraFibulaTotal0 {width: 107px}
+.colSithraFibulaTotal1 {width: 50px}
+.colSithraFibulaTotal2 {width: 70px}
+.colSithraFibulaTotal3 {width: 65px}
+.colSithraFibulaTotal4 {width: 70px}
+.colSithraFibulaTotalSpace {width: 298px}
+.colSithraFibulaSpace {width: 0px}
+
+.colJewelTotal0 {width: 90px}
+.colJewelTotal1 {width: 50px}
+.colJewelTotal2 {width: 50px}
+.colJewelTotal3 {width: 45px}
+.colJewelTotal4 {width: 75px}
+.colJewelTotal5 {width: 110px}
+.colJewelTotalSpace {width: 177px}
+.colJewelSpace {width: 0px}
+
+.colShieldTotal0 {width: 70px}
+.colShieldTotal1 {width: 60px}
+.colShieldTotal2 {width: 50px}
+.colShieldTotal3 {width: 50px}
+.colShieldTotal4 {width: 65px}
+.colShieldTotal5 {width: 90px}
+.colShieldTotalSpace {width: 212px}
+.colShieldSpace {width:0px}
+
+.colBowTotal0 {width: 70px}
+.colBowTotal1 {width: 40px}
+.colBowTotal2 {width: 55px}
+.colBowTotal3 {width: 65px}
+.colBowTotal4 {width: 50px}
+.colBowTotal5 {width: 75px}
+.colBowTotalSpace {width: 260px}
+.colBowSpace {width: 0px}
+
+.colAxeTotal0 {width: 70px}
+.colAxeTotal1 {width: 60px}
+.colAxeTotal2 {width: 50px}
+.colAxeTotal3 {width: 50px}
+.colAxeTotal4 {width: 65px}
+.colAxeTotal5 {width: 90px}
+.colAxeTotalSpace {width: 212px}
+.colAxeSpace {width: 0px}
+
+.colClubTotal0 {width: 70px}
+.colClubTotal1 {width: 60px}
+.colClubTotal2 {width: 50px}
+.colClubTotal3 {width: 50px}
+.colClubTotal4 {width: 65px}
+.colClubTotal5 {width: 50px}
+.colClubTotal6 {width: 80px}
+.colClubTotalSpace {width: 109px}
+.colClubSpace {width: 0px}
+
+.colGreataxeTotal0 {width: 90px}
+.colGreataxeTotal1 {width: 40px}
+.colGreataxeTotal2 {width: 55px}
+.colGreataxeTotal3 {width: 65px}
+.colGreataxeTotal4 {width: 65px}
+.colGreataxeTotal5 {width: 140px}
+.colGreataxeTotalSpace {width: 142px}
+.colGreataxeSpace {width: 0px}
+
+.colGreatclubTotal0 {width: 95px}
+.colGreatclubTotal1 {width: 40px}
+.colGreatclubTotal2 {width: 55px}
+.colGreatclubTotal3 {width: 65px}
+.colGreatclubTotal4 {width: 65px}
+.colGreatclubTotal5 {width: 125px}
+.colGreatclubTotal6 {width: 50px}
+.colGreatclubTotalSpace {width: 39px}
+.colGreatclubSpace {width: 0px}
+
+.colGreatswordTotal0 {width: 110px}
+.colGreatswordTotal1 {width: 35px}
+.colGreatswordTotal2 {width: 55px}
+.colGreatswordTotal3 {width: 65px}
+.colGreatswordTotal4 {width: 65px}
+.colGreatswordTotal5 {width: 80px}
+.colGreatswordTotal6 {width: 45px}
+.colGreatswordTotalSpace {width: 79px}
+.colGreatswordSpace {width: 0px}
+
+.colKnifeTotal0 {width: 70px}
+.colKnifeTotal1 {width: 60px}
+.colKnifeTotal2 {width: 50px}
+.colKnifeTotal3 {width: 50px}
+.colKnifeTotal4 {width: 65px}
+.colKnifeTotal5 {width: 145px}
+.colKnifeTotalSpace {width: 157px}
+.colKnifeSpace {width: 0px}
+
+.colPolearmTotal0 {width: 90px}
+.colPolearmTotal1 {width: 40px}
+.colPolearmTotal2 {width: 55px}
+.colPolearmTotal3 {width: 65px}
+.colPolearmTotal4 {width: 65px}
+.colPolearmTotal5 {width: 100px}
+.colPolearmTotalSpace {width: 182px}
+.colPolearmSpace {width: 0px}
+
+.colSwordTotal0 {width: 75px}
+.colSwordTotal1 {width: 40px}
+.colSwordTotal2 {width: 55px}
+.colSwordTotal3 {width: 65px}
+.colSwordTotal4 {width: 65px}
+.colSwordTotal5 {width: 115px}
+.colSwordTotal6 {width: 80px}
+.colSwordTotalSpace {width: 39px}
+.colSwordSpace {width: 0px}
+
+.colSiegeTotal0 {width: 70px}
+.colSiegeTotal1 {width: 40px}
+.colSiegeTotal2 {width: 110px}
+.colSiegeTotalSpace {width: 575px}
+.colSiegeSpace {width: 0px}
+
+.colSithraTotal0 {width: 70px}
+.colSithraTotal1 {width: 60px}
+.colSithraTotal2 {width: 60px}
+.colSithraTotal3 {width: 69px}
+.colSithraTotal4 {width: 83px}
+.colSithraTotal5 {width: 82px}
+.colSithraTotal6 {width: 95px}
+.colSithraTotalSpace {width: 15px}
+.colSithraSpace {width: 0px}
+
+.colMat1 {width: 85px;background-color: #AAAAFF;}
+.colMat2 {width: 55px;background-color: #AAAAFF;}
+.colMat3 {width: 55px;background-color: #AAAAFF;}
+.colMat4 {width: 55px;background-color: #AAAAFF;}
+.colMat5 {width: 55px;background-color: #AAAAFF;}
+.colMat6 {width: 100px;background-color: #E2B7FF; border-left: 1px solid;}
+.colMat7 {width: 55px;background-color: #E2B7FF;}
+.colMat8 {width: 55px;background-color: #E2B7FF;}
+.colMat9 {width: 70px;background-color: #FF8C55; border-left: 1px solid;}
+.colMat10 {width: 55px;background-color: #FF8C55;}
+.colMat11 {width: 55px;background-color: #FF8C55;}
+.tableMat {border-style: solid; border-width: 1px; border-color: black;}
+
+.tableNoSpace {border-spacing: 0;}
+
+.colCat1 {width: 55px}
+.colCat2 {width: 55px}
+.colCat3 {width: 55px}
+.colCat4 {width: 55px}
+.colCat5 {width: 55px}
+.colCat6 {width: 55px}
+.colCat7 {width: 55px}
+.colCat8 {width: 55px}
+.colCat9 {width: 55px}
+
+.colCompQ1a {width: 85px;}
+.colCompQ1b {width: 55px;}
+.colCompQ1c {width: 0px;}
+.colCompQ2a {width: 135px; border-left: 1px solid;}
+.colCompQ2b {width: 55px;}
+.colCompQ2c {width: 0px;}
+.colCompQ3a {width: 135px; border-left: 1px solid;}
+.colCompQ3b {width: 55px;}
+.colCompQ3c {width: 0px;}
+.colCompQ4a {width: 145px; border-left: 1px solid;}
+.colCompQ4b {width: 55px;}
+.colCompQ4c {width: 0px;}
+.colCompQ5a {width: 145px; border-left: 1px solid;}
+.colCompQ5b {width: 55px;}
